@@ -9,7 +9,7 @@ function MenuPage() {
     useEffect(() => {
         async function fetchProductData() {
         try {
-            const response = await fetch('http://localhost:3001/food'); 
+            const response = await fetch(process.env.PUBLIC_URL + '/db.json'); 
             if (!response.ok) {
             throw new Error('Network response was not ok');
             }
