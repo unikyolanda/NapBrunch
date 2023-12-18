@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-size: 16px;
+	font-family: "Noto Sans TC", "華康黑體","微軟正黑體", arial, sans-serif;
+  letter-spacing: 1.5px;
+}
+
+@keyframes arrow {
+  0%, 100% { transform: translateX(-50%) translateY(-20px); opacity: 0.6;}
+  50% { transform: translateX(-50%) translateY(-10px); opacity: 0; }
+}
+  
+.animate-arrow {
+  animation: arrow 1s infinite;
+}
+
+@keyframes bannerUp {
+  0% { transform: translateX(-50%)translateY(100px); }
+  100% { transform: translateX(-50%)translateY(-50%); }
+}
+
+.animate-bannerUp {
+  animation: bannerUp 1.5s;
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+}
+
+.animate-slideUp {
+  animation: slideUp 1s;
+}
+
+.animate-slideDown {
+  animation: slideDown 1s;
+}
