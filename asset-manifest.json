@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NapBrunch/static/css/main.6e2f5314.css",
-    "main.js": "/NapBrunch/static/js/main.ba850445.js",
+    "main.css": "/NapBrunch/static/css/main.c9b85328.css",
+    "main.js": "/NapBrunch/static/js/main.ee1db045.js",
     "static/media/b2.jpg": "/NapBrunch/static/media/b2.8759836967841a7f9776.jpg",
     "static/media/ab2.jpg": "/NapBrunch/static/media/ab2.120750e5604204a7b8ef.jpg",
     "static/media/b1.jpg": "/NapBrunch/static/media/b1.27a796b40788f2fd1999.jpg",
@@ -19,11 +19,11 @@
     "static/media/icon.svg": "/NapBrunch/static/media/icon.b4e54ae5662a314563b1f45c7bb9031a.svg",
     "index.html": "/NapBrunch/index.html",
     "static/media/arrow-green.svg": "/NapBrunch/static/media/arrow-green.c2150d4230a885b0fba737cfb592cb21.svg",
-    "main.6e2f5314.css.map": "/NapBrunch/static/css/main.6e2f5314.css.map",
-    "main.ba850445.js.map": "/NapBrunch/static/js/main.ba850445.js.map"
+    "main.c9b85328.css.map": "/NapBrunch/static/css/main.c9b85328.css.map",
+    "main.ee1db045.js.map": "/NapBrunch/static/js/main.ee1db045.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e2f5314.css",
-    "static/js/main.ba850445.js"
+    "static/css/main.c9b85328.css",
+    "static/js/main.ee1db045.js"
   ]
 }
