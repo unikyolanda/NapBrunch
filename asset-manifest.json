@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NapBrunch/static/css/main.c9b85328.css",
-    "main.js": "/NapBrunch/static/js/main.ee1db045.js",
+    "main.js": "/NapBrunch/static/js/main.54fd1b07.js",
     "static/media/b2.jpg": "/NapBrunch/static/media/b2.8759836967841a7f9776.jpg",
     "static/media/ab2.jpg": "/NapBrunch/static/media/ab2.120750e5604204a7b8ef.jpg",
     "static/media/b1.jpg": "/NapBrunch/static/media/b1.27a796b40788f2fd1999.jpg",
@@ -20,10 +20,10 @@
     "index.html": "/NapBrunch/index.html",
     "static/media/arrow-green.svg": "/NapBrunch/static/media/arrow-green.c2150d4230a885b0fba737cfb592cb21.svg",
     "main.c9b85328.css.map": "/NapBrunch/static/css/main.c9b85328.css.map",
-    "main.ee1db045.js.map": "/NapBrunch/static/js/main.ee1db045.js.map"
+    "main.54fd1b07.js.map": "/NapBrunch/static/js/main.54fd1b07.js.map"
   },
   "entrypoints": [
     "static/css/main.c9b85328.css",
-    "static/js/main.ee1db045.js"
+    "static/js/main.54fd1b07.js"
   ]
 }
