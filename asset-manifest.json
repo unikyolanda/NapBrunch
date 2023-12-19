@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/NapBrunch/static/css/main.9c9405cb.css",
+    "main.js": "/NapBrunch/static/js/main.5b3d4676.js",
+    "static/media/b2.jpg": "/NapBrunch/static/media/b2.8759836967841a7f9776.jpg",
+    "static/media/ab2.jpg": "/NapBrunch/static/media/ab2.120750e5604204a7b8ef.jpg",
+    "static/media/b1.jpg": "/NapBrunch/static/media/b1.27a796b40788f2fd1999.jpg",
+    "static/media/b4.jpg": "/NapBrunch/static/media/b4.7830f39710da9c9ff7b4.jpg",
+    "static/media/ab1.jpg": "/NapBrunch/static/media/ab1.3e0eb3e4e8e26f05e550.jpg",
+    "static/media/banner.jpg": "/NapBrunch/static/media/banner.63196f20e2a0262e1d15.jpg",
+    "static/media/bf4.jpg": "/NapBrunch/static/media/bf4.a0b8dff64ff43b162bf5.jpg",
+    "static/media/b5.jpg": "/NapBrunch/static/media/b5.fc55664124299a9974f0.jpg",
+    "static/media/bf.jpg": "/NapBrunch/static/media/bf.fea8e899ec7736fd2993.jpg",
+    "static/media/banner2.jpg": "/NapBrunch/static/media/banner2.d941431075a29b83af4c.jpg",
+    "static/media/b6.jpg": "/NapBrunch/static/media/b6.36a085189bf888ff02e0.jpg",
+    "static/media/a4.jpg": "/NapBrunch/static/media/a4.0f64280770c720a2268d.jpg",
+    "static/media/banner3.jpg": "/NapBrunch/static/media/banner3.47d9554e34326ac4e35c.jpg",
+    "static/media/poem.jpg": "/NapBrunch/static/media/poem.fb13a99e7965441e0d8d.jpg",
+    "static/media/icon.svg": "/NapBrunch/static/media/icon.b4e54ae5662a314563b1f45c7bb9031a.svg",
+    "index.html": "/NapBrunch/index.html",
+    "static/media/arrow-green.svg": "/NapBrunch/static/media/arrow-green.c2150d4230a885b0fba737cfb592cb21.svg",
+    "main.9c9405cb.css.map": "/NapBrunch/static/css/main.9c9405cb.css.map",
+    "main.5b3d4676.js.map": "/NapBrunch/static/js/main.5b3d4676.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c9405cb.css",
+    "static/js/main.5b3d4676.js"
+  ]
+}
